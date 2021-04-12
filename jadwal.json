@@ -1,0 +1,2124 @@
+{
+    "type": "Jadwal_skripsi_gelombang_2_genap 2020_2021",
+    "data": [{
+        "id": 18871,
+        "tanggal": "2021-04-01",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18141,
+            "judul": "Strategi Kepala Sekolah Dalam Menghadapi Problematika Penerapan Penerapan Kurikulum 2013 Di Smp Negeri 1 Tlanakan",
+            "mahasiswa": {
+                "id": 4210,
+                "nim": "20170701042106",
+                "nik": "3528015704980001",
+                "nama": "MADJUWINAH",
+                "semester": null,
+                "alamat": "Gedongan, 00 / 00, Branta Tinggi, Tlanakan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-04-17",
+                "kelamin": "p",
+                "hp": "082333857534",
+                "email": "madjuwinah91@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18140,
+                "dosen_karyawan": {
+                    "id": 22,
+                    "kode": "197207092005011002",
+                    "nama": "Zainuddin Syarif",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.Ag.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1972-07-09",
+                    "kelamin": "l",
+                    "hp": "081332584313",
+                    "email": null,
+                    "keahlian": "Filsafat Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24825,
+                "dosen_karyawan": {
+                    "id": 11,
+                    "kode": "196907041994032003",
+                    "nama": "Waqiatul Masrurah",
+                    "titel_depan": "Dr. Hj.",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "1969-07-04",
+                    "kelamin": "p",
+                    "hp": "082334698909",
+                    "email": null,
+                    "keahlian": "Pengelolaan Pengajaran",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24826,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18885,
+        "tanggal": "2021-04-01",
+        "mulai": "09:00:00",
+        "selesai": "10:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18186,
+            "judul": "Peran Kegiatan Ekstrakurikuler Tahfidz Dalam Mengembangkan Sikap Relegius Siswa Di Mtsn 3 Pamekasan",
+            "mahasiswa": {
+                "id": 3780,
+                "nim": "20170701012027",
+                "nik": "3528096902000001",
+                "nama": "ATIK HIDAYATI PUTRI",
+                "semester": null,
+                "alamat": "Dsn Balanggar, 001 / 004, Pakong, Pakong",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "2000-02-29",
+                "kelamin": "p",
+                "hp": "081803865673",
+                "email": "atikpuutri@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 1,
+                    "nama": "Pendidikan Agama Islam",
+                    "singkatan": "PAI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18185,
+                "dosen_karyawan": {
+                    "id": 1,
+                    "kode": "196702011995031001",
+                    "nama": "Saiful Arif",
+                    "titel_depan": "Drs. H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-01-01",
+                    "kelamin": "l",
+                    "hp": "081332079666",
+                    "email": null,
+                    "keahlian": "Supervisi PAI",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 24729,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }, {
+                "id": 24730,
+                "dosen_karyawan": {
+                    "id": 43,
+                    "kode": "198212282015032003",
+                    "nama": "Sri Nurhayati",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "0818597476",
+                    "email": null,
+                    "keahlian": "Bahasa Inggris",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18864,
+        "tanggal": "2021-04-01",
+        "mulai": "10:00:00",
+        "selesai": "11:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18187,
+            "judul": "Implementasi Manajemen Layanan Bimbingan Dan Konseling Dalam Mengembangkan Karakter Kemandirian Siswa Di Smp Negeri 4 Pamekasan",
+            "mahasiswa": {
+                "id": 4264,
+                "nim": "20170701042195",
+                "nik": "3528046106990010",
+                "nama": "ZABRINA TRI AISYAH",
+                "semester": null,
+                "alamat": "Pintu Gerbang, 003 / 008, Bugih, Pamekasan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-06-21",
+                "kelamin": "p",
+                "hp": "081958038102",
+                "email": "aisyahsabrina11@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18186,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 24798,
+                "dosen_karyawan": {
+                    "id": 22,
+                    "kode": "197207092005011002",
+                    "nama": "Zainuddin Syarif",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.Ag.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1972-07-09",
+                    "kelamin": "l",
+                    "hp": "081332584313",
+                    "email": null,
+                    "keahlian": "Filsafat Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24799,
+                "dosen_karyawan": {
+                    "id": 37,
+                    "kode": "198303052011011006",
+                    "nama": "Muhammad Jamaluddin",
+                    "titel_depan": "H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1983-03-05",
+                    "kelamin": "l",
+                    "hp": "082336626136",
+                    "email": null,
+                    "keahlian": "Evaluasi Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18845,
+        "tanggal": "2021-04-05",
+        "mulai": "09:00:00",
+        "selesai": "10:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18170,
+            "judul": "Pelaksanaan Layanan Informasi Dalam Membantu Perencanaan Karir Siswa Kelas Xi Ma. Tarbiyatun Nasyiin 1 Grujugan Larangan Pamekasan",
+            "mahasiswa": {
+                "id": 4646,
+                "nim": "20170701092011",
+                "nik": "3528085809970001",
+                "nama": "AMINATUS SYARIFAH",
+                "semester": null,
+                "alamat": "Dusun Bicabbih 1, 42827, Larangan Luar, Pamekasan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1997-09-18",
+                "kelamin": "p",
+                "hp": "085331390214",
+                "email": "ad.dhahil@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 10,
+                    "nama": "Bimbingan dan Konseling Pendidikan Islam",
+                    "singkatan": "BKPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18169,
+                "dosen_karyawan": {
+                    "id": 37,
+                    "kode": "198303052011011006",
+                    "nama": "Muhammad Jamaluddin",
+                    "titel_depan": "H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1983-03-05",
+                    "kelamin": "l",
+                    "hp": "082336626136",
+                    "email": null,
+                    "keahlian": "Evaluasi Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24662,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }, {
+                "id": 24663,
+                "dosen_karyawan": {
+                    "id": 8,
+                    "kode": "197503251999031006",
+                    "nama": "Achmad Muhlis",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.A.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1975-03-25",
+                    "kelamin": "l",
+                    "hp": "082334459888",
+                    "email": null,
+                    "keahlian": "Bahasa Arab",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18846,
+        "tanggal": "2021-04-05",
+        "mulai": "10:00:00",
+        "selesai": "11:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18176,
+            "judul": "Efektivitas Konseling Kelompok Dengan Teknik Reframing Untuk Meningkatkan Kemampuan Berpikir Positif Siswa Di Smpn 3 Pademawu Pamekasan",
+            "mahasiswa": {
+                "id": 4700,
+                "nim": "20170701092100",
+                "nik": "3528024605990005",
+                "nama": "SRI WAHYUNI",
+                "semester": null,
+                "alamat": "Dsn Mondung Utara, 002 / 003, Bunder, Pademawu",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-05-16",
+                "kelamin": "p",
+                "hp": "082330470400",
+                "email": "Ayu14242@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 10,
+                    "nama": "Bimbingan dan Konseling Pendidikan Islam",
+                    "singkatan": "BKPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18175,
+                "dosen_karyawan": {
+                    "id": 37,
+                    "kode": "198303052011011006",
+                    "nama": "Muhammad Jamaluddin",
+                    "titel_depan": "H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1983-03-05",
+                    "kelamin": "l",
+                    "hp": "082336626136",
+                    "email": null,
+                    "keahlian": "Evaluasi Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24664,
+                "dosen_karyawan": {
+                    "id": 59,
+                    "kode": "198707152019032008",
+                    "nama": "Iswatun Hasanah",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Psi.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "",
+                    "lahir_tanggal": "1987-07-15",
+                    "kelamin": "p",
+                    "hp": "087778788115",
+                    "email": null,
+                    "keahlian": "Kesehatan Mental",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24665,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18847,
+        "tanggal": "2021-04-05",
+        "mulai": "11:00:00",
+        "selesai": "12:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18203,
+            "judul": "Penerapan Solution Focused Brief Counseling Untuk Mengurangi Prokrastinasi Belajar Di Smp Sabilul Ihsan Pamekasan",
+            "mahasiswa": {
+                "id": 4630,
+                "nim": "20170701091072",
+                "nik": "3578161207990003",
+                "nama": "MUHAMMAD SHOLEH HUDDIN",
+                "semester": null,
+                "alamat": "Jl Wonokusumo Wetan No 47, 43012, Wonokusumo, Semampir",
+                "lahir_tempat": "Surabaya",
+                "lahir_tanggal": "1999-07-12",
+                "kelamin": "l",
+                "hp": "087853420414",
+                "email": "ubetwelek@ymail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 10,
+                    "nama": "Bimbingan dan Konseling Pendidikan Islam",
+                    "singkatan": "BKPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18202,
+                "dosen_karyawan": {
+                    "id": 37,
+                    "kode": "198303052011011006",
+                    "nama": "Muhammad Jamaluddin",
+                    "titel_depan": "H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1983-03-05",
+                    "kelamin": "l",
+                    "hp": "082336626136",
+                    "email": null,
+                    "keahlian": "Evaluasi Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24666,
+                "dosen_karyawan": {
+                    "id": 12,
+                    "kode": "197305041999031015",
+                    "nama": "Atiqullah",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Ag., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1973-05-04",
+                    "kelamin": "l",
+                    "hp": "08123108158",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24667,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18854,
+        "tanggal": "2021-04-05",
+        "mulai": "13:00:00",
+        "selesai": "14:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18145,
+            "judul": "Peran Kepemimpinan Perempuan Dalam Meningkatkan Kecerdasan Spiritual Mahasiswa Di Program Studi Pendidikan Agama Islam Fakultas Tarbiyah Iain Madura",
+            "mahasiswa": {
+                "id": 4245,
+                "nim": "20170701042169",
+                "nik": "3528014709980001",
+                "nama": "SISKA WULANDARI",
+                "semester": null,
+                "alamat": "Dsn.Taman 1, - / -, Larangan Tokol, Tlanakan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-09-07",
+                "kelamin": "p",
+                "hp": "085334628787",
+                "email": "siskawulandari049@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18144,
+                "dosen_karyawan": {
+                    "id": 32,
+                    "kode": "197801091999111001",
+                    "nama": "Ali Nurhadi",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Pd., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sampang",
+                    "lahir_tanggal": "1978-01-09",
+                    "kelamin": "l",
+                    "hp": "087806822774",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24781,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }, {
+                "id": 24783,
+                "dosen_karyawan": {
+                    "id": 102,
+                    "kode": "198005072016081731",
+                    "nama": "Abdul Wahid",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Phil.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "0817467630",
+                    "email": null,
+                    "keahlian": "Filsafat Umum",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18858,
+        "tanggal": "2021-04-05",
+        "mulai": "14:00:00",
+        "selesai": "15:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18200,
+            "judul": "Strategi Kepala Madrasah Dalam Menghadapi Perubahan Pembelajaran Dalam Situasi Pandemi Covid-19 Di Man 1 Pamekasan",
+            "mahasiswa": {
+                "id": 4081,
+                "nim": "20170701041009",
+                "nik": "3528122806990001",
+                "nama": "ACHMAD SOFWAN",
+                "semester": null,
+                "alamat": "Mengkaan Iii, 001 / 006, Kertagena Laok, Kadur",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-06-28",
+                "kelamin": "l",
+                "hp": "082334177803",
+                "email": "87850099383",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18199,
+                "dosen_karyawan": {
+                    "id": 32,
+                    "kode": "197801091999111001",
+                    "nama": "Ali Nurhadi",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Pd., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sampang",
+                    "lahir_tanggal": "1978-01-09",
+                    "kelamin": "l",
+                    "hp": "087806822774",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24764,
+                "dosen_karyawan": {
+                    "id": 4,
+                    "kode": "196708131994031002",
+                    "nama": "Nor Hasan",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.Ag.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1967-08-13",
+                    "kelamin": "l",
+                    "hp": "085331313075",
+                    "email": null,
+                    "keahlian": "Dirasah Islamiyah",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24765,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18865,
+        "tanggal": "2021-04-05",
+        "mulai": "15:00:00",
+        "selesai": "16:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18167,
+            "judul": "Manajemen Bimbingan Konseling Dalam Mengembangkan Kecerdasan Emosional Siswa Di Madrasah Tsanawiyah Nurul Islam Karangcempaka Bluto Sumenep",
+            "mahasiswa": {
+                "id": 4258,
+                "nim": "20170701042189",
+                "nik": "3529067108990003",
+                "nama": "WARDATUL JANNAH",
+                "semester": null,
+                "alamat": "Dusun Nang Nangan, 005 / 002, Saronggi, Saronggi",
+                "lahir_tempat": "Sumenep",
+                "lahir_tanggal": "1999-08-31",
+                "kelamin": "p",
+                "hp": "082301171663",
+                "email": "Wardatuljannah86@yahoo.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18166,
+                "dosen_karyawan": {
+                    "id": 37,
+                    "kode": "198303052011011006",
+                    "nama": "Muhammad Jamaluddin",
+                    "titel_depan": "H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1983-03-05",
+                    "kelamin": "l",
+                    "hp": "082336626136",
+                    "email": null,
+                    "keahlian": "Evaluasi Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24800,
+                "dosen_karyawan": {
+                    "id": 4,
+                    "kode": "196708131994031002",
+                    "nama": "Nor Hasan",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.Ag.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1967-08-13",
+                    "kelamin": "l",
+                    "hp": "085331313075",
+                    "email": null,
+                    "keahlian": "Dirasah Islamiyah",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24801,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18862,
+        "tanggal": "2021-04-06",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18158,
+            "judul": "Penerapan Etika Komunikasi Dalam Kantor Di Lembaga Penjaminan Mutu Iain Madura",
+            "mahasiswa": {
+                "id": 4168,
+                "nim": "20170701042032",
+                "nik": "3528024702990004",
+                "nama": "AYU ERINAWATI ANGGRAENI",
+                "semester": null,
+                "alamat": "Dsn Telaga Sari, 002 / 007, Murtajih, Pademawu",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-02-07",
+                "kelamin": "p",
+                "hp": "085236958919",
+                "email": "erinawaty112@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18157,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 24790,
+                "dosen_karyawan": {
+                    "id": 112,
+                    "kode": "198906302016082750",
+                    "nama": "Rusdiana Navlia",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "085232729026",
+                    "email": null,
+                    "keahlian": "Manajemen Konflik",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24793,
+                "dosen_karyawan": {
+                    "id": 22,
+                    "kode": "197207092005011002",
+                    "nama": "Zainuddin Syarif",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.Ag.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1972-07-09",
+                    "kelamin": "l",
+                    "hp": "081332584313",
+                    "email": null,
+                    "keahlian": "Filsafat Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18855,
+        "tanggal": "2021-04-06",
+        "mulai": "09:00:00",
+        "selesai": "10:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18157,
+            "judul": "Keterlibatan Masyarakat Dalam Meningkatkan Kualitas Program Sekolah Di Smk Darussalam Torjun Sampang",
+            "mahasiswa": {
+                "id": 4224,
+                "nim": "20170701042133",
+                "nik": "3527025201000006",
+                "nama": "NISWATUN NISAK",
+                "semester": null,
+                "alamat": "Jln. Pp. Darus Salam, 0 / 0, Torjun, Torjun",
+                "lahir_tempat": "Sampang",
+                "lahir_tanggal": "2000-01-12",
+                "kelamin": "p",
+                "hp": "083119033891",
+                "email": "iena.nisak79@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18156,
+                "dosen_karyawan": {
+                    "id": 32,
+                    "kode": "197801091999111001",
+                    "nama": "Ali Nurhadi",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Pd., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sampang",
+                    "lahir_tanggal": "1978-01-09",
+                    "kelamin": "l",
+                    "hp": "087806822774",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24758,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }, {
+                "id": 24759,
+                "dosen_karyawan": {
+                    "id": 102,
+                    "kode": "198005072016081731",
+                    "nama": "Abdul Wahid",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Phil.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "0817467630",
+                    "email": null,
+                    "keahlian": "Filsafat Umum",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18860,
+        "tanggal": "2021-04-06",
+        "mulai": "10:00:00",
+        "selesai": "11:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18152,
+            "judul": "Strategi Pembentukan Ideologi Ndp Hmi Pada Lk 1 Hmi Cabang Pamekasan Komisariat Iain Madura Tahun 2019",
+            "mahasiswa": {
+                "id": 1905,
+                "nim": "18201501040001",
+                "nik": "3527060205940004",
+                "nama": "ABDUL ADIM",
+                "semester": null,
+                "alamat": "Ds. Batokombung Ds. Pajeruan Kec. Kedundung Sampang ",
+                "lahir_tempat": "Sampang",
+                "lahir_tanggal": "1994-05-02",
+                "kelamin": "l",
+                "hp": "085230833484",
+                "email": "-",
+                "foto": null,
+                "tahun_masuk": 2015,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18151,
+                "dosen_karyawan": {
+                    "id": 26,
+                    "kode": "197205012005011007",
+                    "nama": "Fathol Haliq",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "1972-05-01",
+                    "kelamin": "l",
+                    "hp": "082336002886",
+                    "email": null,
+                    "keahlian": "Pendidikan Bahasa Arab",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24766,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }, {
+                "id": 24767,
+                "dosen_karyawan": {
+                    "id": 32,
+                    "kode": "197801091999111001",
+                    "nama": "Ali Nurhadi",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Pd., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sampang",
+                    "lahir_tanggal": "1978-01-09",
+                    "kelamin": "l",
+                    "hp": "087806822774",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18861,
+        "tanggal": "2021-04-06",
+        "mulai": "11:00:00",
+        "selesai": "12:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18156,
+            "judul": "Strategi Pengurus Pondok Pesantren Dalam Pengelolaan Konflik Antar Santri Di Pondok Pesantren Sumber Anyar Desa Larangan Tokol Kecamatan Tlanakan Kabupaten Pamekasan",
+            "mahasiswa": {
+                "id": 4145,
+                "nim": "20170701041161",
+                "nik": "3528021506990004",
+                "nama": "SALEHODDIN",
+                "semester": null,
+                "alamat": "Dusn Daja Tambak, 0 / 0, Padelegan, Pademawu",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-06-15",
+                "kelamin": "l",
+                "hp": "087857021346",
+                "email": "salehcalbert@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18155,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 24774,
+                "dosen_karyawan": {
+                    "id": 32,
+                    "kode": "197801091999111001",
+                    "nama": "Ali Nurhadi",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Pd., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sampang",
+                    "lahir_tanggal": "1978-01-09",
+                    "kelamin": "l",
+                    "hp": "087806822774",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24777,
+                "dosen_karyawan": {
+                    "id": 26,
+                    "kode": "197205012005011007",
+                    "nama": "Fathol Haliq",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "1972-05-01",
+                    "kelamin": "l",
+                    "hp": "082336002886",
+                    "email": null,
+                    "keahlian": "Pendidikan Bahasa Arab",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18868,
+        "tanggal": "2021-04-06",
+        "mulai": "13:00:00",
+        "selesai": "14:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18134,
+            "judul": "Manajemen Strategik Dalam Meningkatkan Mutu Pendidikan Di Smp Plus Nurul Hikmah Pamekasan",
+            "mahasiswa": {
+                "id": 2917,
+                "nim": "20160701040014",
+                "nik": "3528042406980001",
+                "nama": "ACHMAD KURYADI",
+                "semester": null,
+                "alamat": "Jl.Kh Amin Jakfar Gg 1/66, Rt/Rw, 2/4, Gladak Anyar, Pamekasan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-06-24",
+                "kelamin": "l",
+                "hp": "081333435068",
+                "email": "a_kuryadi@yahoo.com",
+                "foto": null,
+                "tahun_masuk": 2016,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18133,
+                "dosen_karyawan": {
+                    "id": 112,
+                    "kode": "198906302016082750",
+                    "nama": "Rusdiana Navlia",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "085232729026",
+                    "email": null,
+                    "keahlian": "Manajemen Konflik",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24814,
+                "dosen_karyawan": {
+                    "id": 22,
+                    "kode": "197207092005011002",
+                    "nama": "Zainuddin Syarif",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.Ag.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1972-07-09",
+                    "kelamin": "l",
+                    "hp": "081332584313",
+                    "email": null,
+                    "keahlian": "Filsafat Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24815,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18869,
+        "tanggal": "2021-04-06",
+        "mulai": "14:00:00",
+        "selesai": "15:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18192,
+            "judul": "Manajemen Sarana Dan Prasarana Berbasis Islam Dalam Menunjang Mutu Pembelajaran Siswa Di Mas Nurul Wujud Sotabar Pasean Pamekasan",
+            "mahasiswa": {
+                "id": 1468,
+                "nim": "18201401040141",
+                "nik": "3528132106960002",
+                "nama": "MOH. JARJIS",
+                "semester": null,
+                "alamat": "Dusun Dungendak Desa Tlonto Raja ",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1996-06-21",
+                "kelamin": "l",
+                "hp": "082331778224",
+                "email": null,
+                "foto": null,
+                "tahun_masuk": 2014,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18191,
+                "dosen_karyawan": {
+                    "id": 19,
+                    "kode": "197802152005011005",
+                    "nama": "Siswanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1978-02-15",
+                    "kelamin": "l",
+                    "hp": "082244135805",
+                    "email": null,
+                    "keahlian": "Filsafat Pendidikan Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24816,
+                "dosen_karyawan": {
+                    "id": 22,
+                    "kode": "197207092005011002",
+                    "nama": "Zainuddin Syarif",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.Ag.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1972-07-09",
+                    "kelamin": "l",
+                    "hp": "081332584313",
+                    "email": null,
+                    "keahlian": "Filsafat Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24817,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18879,
+        "tanggal": "2021-04-06",
+        "mulai": "15:00:00",
+        "selesai": "16:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18148,
+            "judul": "Upaya Peningkatkan Akhlakul Karimah Melalui Kegiatan Ekstra Kurikuler Keagamaan Siswi Kelas Ix Mts Matsaratul Huda Penempan Pamekasan",
+            "mahasiswa": {
+                "id": 2472,
+                "nim": "20160701010016",
+                "nik": "3528071109980001",
+                "nama": "AHMAD WASIK",
+                "semester": null,
+                "alamat": "Dsn Tengah, Rt/Rw, 3/3, Bulangan Timur, Pegantenan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-09-11",
+                "kelamin": "l",
+                "hp": "085338778087",
+                "email": "afif_fariqi@yahoo.com",
+                "foto": null,
+                "tahun_masuk": 2016,
+                "prodi": {
+                    "id": 1,
+                    "nama": "Pendidikan Agama Islam",
+                    "singkatan": "PAI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18147,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 24706,
+                "dosen_karyawan": {
+                    "id": 8,
+                    "kode": "197503251999031006",
+                    "nama": "Achmad Muhlis",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "M.A.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1975-03-25",
+                    "kelamin": "l",
+                    "hp": "082334459888",
+                    "email": null,
+                    "keahlian": "Bahasa Arab",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24707,
+                "dosen_karyawan": {
+                    "id": 42,
+                    "kode": "198706162015032010",
+                    "nama": "Muliatul Maghfiroh",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Lamongan",
+                    "lahir_tanggal": "1987-06-16",
+                    "kelamin": "p",
+                    "hp": "087851900775",
+                    "email": null,
+                    "keahlian": "Metodologi Penelitian Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18870,
+        "tanggal": "2021-04-07",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18180,
+            "judul": "Strategi Kepala Tata Usaha Dalam Pengadaan Furniture Dan Mesin Kantor Di Man 2 Pamekasan",
+            "mahasiswa": {
+                "id": 4167,
+                "nim": "20170701042031",
+                "nik": "3528015610980002",
+                "nama": "AULIA ULINNUHA",
+                "semester": null,
+                "alamat": "Gedongan, 00 / 00, Branta Tinggi, Tlanakan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-10-16",
+                "kelamin": "p",
+                "hp": "085230512346",
+                "email": "auliaulinnuha92@yahoo.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18179,
+                "dosen_karyawan": {
+                    "id": 11,
+                    "kode": "196907041994032003",
+                    "nama": "Waqiatul Masrurah",
+                    "titel_depan": "Dr. Hj.",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "1969-07-04",
+                    "kelamin": "p",
+                    "hp": "082334698909",
+                    "email": null,
+                    "keahlian": "Pengelolaan Pengajaran",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24821,
+                "dosen_karyawan": {
+                    "id": 19,
+                    "kode": "197802152005011005",
+                    "nama": "Siswanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1978-02-15",
+                    "kelamin": "l",
+                    "hp": "082244135805",
+                    "email": null,
+                    "keahlian": "Filsafat Pendidikan Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24822,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18863,
+        "tanggal": "2021-04-07",
+        "mulai": "09:00:00",
+        "selesai": "10:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18175,
+            "judul": "Kebijakan Manajemen Kepala Madrasah Dalam Mengimplementasikan Kurikulum 2013 Di Ma Al-Abror Blumbungan Pamekasan",
+            "mahasiswa": {
+                "id": 4214,
+                "nim": "20170701042110",
+                "nik": "3528085403990001",
+                "nama": "MEGA HARDIYANTI",
+                "semester": null,
+                "alamat": "Tana Mera, 003 / 002, Larangan Dalam, Larangan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-03-14",
+                "kelamin": "p",
+                "hp": "085218362386",
+                "email": "megamegoed@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 4,
+                    "nama": "Manajemen Pendidikan Islam",
+                    "singkatan": "MPI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18174,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 24796,
+                "dosen_karyawan": {
+                    "id": 112,
+                    "kode": "198906302016082750",
+                    "nama": "Rusdiana Navlia",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "085232729026",
+                    "email": null,
+                    "keahlian": "Manajemen Konflik",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24797,
+                "dosen_karyawan": {
+                    "id": 37,
+                    "kode": "198303052011011006",
+                    "nama": "Muhammad Jamaluddin",
+                    "titel_depan": "H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1983-03-05",
+                    "kelamin": "l",
+                    "hp": "082336626136",
+                    "email": null,
+                    "keahlian": "Evaluasi Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18889,
+        "tanggal": "2021-04-07",
+        "mulai": "10:00:00",
+        "selesai": "11:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18172,
+            "judul": "Peranan Nyai Dalam Menanamkan Akhlak Mulia Pada Santriwati Pondok Pesantren Al-Falah Branta Tinggi Tlanakan Pamekasan",
+            "mahasiswa": {
+                "id": 3819,
+                "nim": "20170701012102",
+                "nik": "3528045810820003",
+                "nama": "NOER AINI",
+                "semester": null,
+                "alamat": "Dsn Montor/Jl.Masjid Bagandan, 002 / 004, Jungcangcang, Pamekasan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-01-07",
+                "kelamin": "p",
+                "hp": "083115456474",
+                "email": "noeraini333@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 1,
+                    "nama": "Pendidikan Agama Islam",
+                    "singkatan": "PAI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18171,
+                "dosen_karyawan": {
+                    "id": 11,
+                    "kode": "196907041994032003",
+                    "nama": "Waqiatul Masrurah",
+                    "titel_depan": "Dr. Hj.",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "1969-07-04",
+                    "kelamin": "p",
+                    "hp": "082334698909",
+                    "email": null,
+                    "keahlian": "Pengelolaan Pengajaran",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24738,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }, {
+                "id": 24739,
+                "dosen_karyawan": {
+                    "id": 43,
+                    "kode": "198212282015032003",
+                    "nama": "Sri Nurhayati",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "0818597476",
+                    "email": null,
+                    "keahlian": "Bahasa Inggris",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 18905,
+        "tanggal": "2021-04-07",
+        "mulai": "11:00:00",
+        "selesai": "12:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18181,
+            "judul": "Pengaruh Minat Belajar Siswa Terhadap Hasil Belajar Pada Mata Pelajaran Matematika Di Kelas Iii Sdn Klampar 3",
+            "mahasiswa": {
+                "id": 4290,
+                "nim": "20170701052004",
+                "nik": "3528054412980002",
+                "nama": "AISYAH NISFI ROSYIDA",
+                "semester": null,
+                "alamat": "Kalimati, 001 / 001, Samiran, Proppo",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-12-04",
+                "kelamin": "p",
+                "hp": "085234724003",
+                "email": "aisyahnisfi@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18180,
+                "dosen_karyawan": {
+                    "id": 108,
+                    "kode": "198805152016082755",
+                    "nama": "Fatimatuz Zahroh",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "02330438791",
+                    "email": null,
+                    "keahlian": "Statistik Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 24840,
+                "dosen_karyawan": {
+                    "id": 109,
+                    "kode": "198808122016081753",
+                    "nama": "Ahmad Fawaid",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Sumenep",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085236516912",
+                    "email": null,
+                    "keahlian": "Pengembangan Peserta Didik",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 24841,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 94,
+                "gelombang": 2,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-03-18 18:15:00",
+                "tanggal_tutup": "2021-03-27 18:15:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 1,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }]
+}
