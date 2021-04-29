@@ -566,10 +566,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -577,7 +577,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }],
             "penguji": [{
@@ -2401,6 +2401,25 @@
                     "rekening": null,
                     "foto": ""
                 }
+            }, {
+                "id": 25242,
+                "dosen_karyawan": {
+                    "id": 43,
+                    "kode": "198212282015032003",
+                    "nama": "Sri Nurhayati",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "0818597476",
+                    "email": null,
+                    "keahlian": "Bahasa Inggris",
+                    "rekening": null,
+                    "foto": ""
+                }
             }],
             "jadwal_daftar_ujian": {
                 "id": 96,
@@ -2793,10 +2812,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -2804,7 +2823,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }, {
                 "id": 25083,
@@ -3554,10 +3573,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -3565,7 +3584,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }],
             "jadwal_daftar_ujian": {
@@ -4802,7 +4821,26 @@
                 }
             }],
             "penguji": [{
-                "id": 25224,
+                "id": 25243,
+                "dosen_karyawan": {
+                    "id": 42,
+                    "kode": "198706162015032010",
+                    "nama": "Muliatul Maghfiroh",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Lamongan",
+                    "lahir_tanggal": "1987-06-16",
+                    "kelamin": "p",
+                    "hp": "087851900775",
+                    "email": null,
+                    "keahlian": "Metodologi Penelitian Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25244,
                 "dosen_karyawan": {
                     "id": 43,
                     "kode": "198212282015032003",
@@ -5000,10 +5038,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -5011,7 +5049,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }, {
                 "id": 25099,
@@ -6397,10 +6435,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -6408,7 +6446,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }],
             "jadwal_daftar_ujian": {
@@ -9008,10 +9046,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -9019,7 +9057,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }],
             "penguji": [{
@@ -11148,10 +11186,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -11159,7 +11197,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }, {
                 "id": 25077,
@@ -11870,10 +11908,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -11881,7 +11919,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }],
             "penguji": [{
@@ -13904,10 +13942,10 @@
                     "id": 50,
                     "kode": "198008212015031003",
                     "nama": "Zaglul Fitrian",
-                    "titel_depan": "",
+                    "titel_depan": "Dr.",
                     "titel_belakang": "M.A.",
                     "golongan": null,
-                    "alamat": "",
+                    "alamat": null,
                     "lahir_tempat": "Sabang",
                     "lahir_tanggal": "1980-01-21",
                     "kelamin": "l",
@@ -13915,7 +13953,7 @@
                     "email": null,
                     "keahlian": "Tafsir Tarbawi",
                     "rekening": null,
-                    "foto": ""
+                    "foto": null
                 }
             }, {
                 "id": 25081,
