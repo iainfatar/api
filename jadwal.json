@@ -1,0 +1,1594 @@
+{
+    "type": "Jadwal_skripsi_gelombang_4_genap_2020_2021",
+    "data": [{
+        "id": 19631,
+        "tanggal": "2021-06-16",
+        "mulai": "13:00:00",
+        "selesai": "14:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18649,
+            "judul": "Pelaksanaan Pemberian Reward Dan Punishment Dalam Meningkatkan Hasil Belajar Pada Mata Pelajaran Bahasa Indonesai Kelas 2 Di Sdn Kolpajung Ii Pamekasan",
+            "mahasiswa": {
+                "id": 4268,
+                "nim": "20170701051006",
+                "nik": null,
+                "nama": "ALDI PRANATA",
+                "semester": null,
+                "alamat": "Jl. Gatot Koco, 42827, Kolpajung, Pamekasan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-09-09",
+                "kelamin": "l",
+                "hp": "81217272157",
+                "email": "Dw_sulisiyana@yahoo.co.id",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18648,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 25561,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25563,
+                "dosen_karyawan": {
+                    "id": 107,
+                    "kode": "198703112016081724",
+                    "nama": "Mohammad Hefni",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085204701996",
+                    "email": null,
+                    "keahlian": "Biologi Dasar",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19632,
+        "tanggal": "2021-06-17",
+        "mulai": "09:00:00",
+        "selesai": "10:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18659,
+            "judul": "Kompetensi Pedagogik Guru Mi Bustanul Ulum C Kecamatan Waru Kabupaten Pamekasan",
+            "mahasiswa": {
+                "id": 4266,
+                "nim": "20170701051001",
+                "nik": null,
+                "nama": "ABDUR KHALIQUR RAHMAN",
+                "semester": null,
+                "alamat": "Pakotan, 002 / 001, Pasongsongan, Pasongsongan",
+                "lahir_tempat": "Sumenep",
+                "lahir_tanggal": "1998-08-15",
+                "kelamin": "l",
+                "hp": "82311679156",
+                "email": "kholek.alexs@yahoo.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18658,
+                "dosen_karyawan": {
+                    "id": 1,
+                    "kode": "196702011995031001",
+                    "nama": "Saiful Arif",
+                    "titel_depan": "Drs. H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-01-01",
+                    "kelamin": "l",
+                    "hp": "081332079666",
+                    "email": null,
+                    "keahlian": "Supervisi PAI",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "penguji": [{
+                "id": 25565,
+                "dosen_karyawan": {
+                    "id": 107,
+                    "kode": "198703112016081724",
+                    "nama": "Mohammad Hefni",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085204701996",
+                    "email": null,
+                    "keahlian": "Biologi Dasar",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25568,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19618,
+        "tanggal": "2021-06-18",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18643,
+            "judul": "Penerapan Model Problem Based Learning Dalam Mengembangkan Keaktifan Belajar Siswa Kelas V Di Sdn Pragaan Laok I Sumenep",
+            "mahasiswa": {
+                "id": 4289,
+                "nim": "20170701051074",
+                "nik": null,
+                "nama": "URBAI LAILATUS ZAIEN",
+                "semester": null,
+                "alamat": "Dusun Onggaan, 012 / 003, Prenduan, Pragaan",
+                "lahir_tempat": "Sumenep",
+                "lahir_tanggal": "1999-03-22",
+                "kelamin": "l",
+                "hp": "85230194180",
+                "email": "arzaientamara@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18642,
+                "dosen_karyawan": {
+                    "id": 36,
+                    "kode": "198402012011012014",
+                    "nama": "Aflahah",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1984-02-01",
+                    "kelamin": "p",
+                    "hp": "08179378412",
+                    "email": null,
+                    "keahlian": "Bahasa Indonesia",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25464,
+                "dosen_karyawan": {
+                    "id": 7,
+                    "kode": "197011181999031002",
+                    "nama": "Edi susanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Fil.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-11-18",
+                    "kelamin": "l",
+                    "hp": "085230028648",
+                    "email": null,
+                    "keahlian": "Ilmu Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25466,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19620,
+        "tanggal": "2021-06-21",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18731,
+            "judul": "Implementasi Metode Ummi Di Sdn Torjun 1 Sampang: Studi Peningkatan Kemampuan Membaca Al-Qur'An Siswa Kelas Ii",
+            "mahasiswa": {
+                "id": 4317,
+                "nim": "20170701052054",
+                "nik": null,
+                "nama": "NAILIS SAADAH",
+                "semester": null,
+                "alamat": "Jl. Jaksa Agung Suprapto 88, - / -, Pangongsean, Torjun",
+                "lahir_tempat": "Sampang",
+                "lahir_tanggal": "1999-05-20",
+                "kelamin": "p",
+                "hp": "83130048782",
+                "email": "nailissaadeh6@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18730,
+                "dosen_karyawan": {
+                    "id": 7,
+                    "kode": "197011181999031002",
+                    "nama": "Edi susanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Fil.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-11-18",
+                    "kelamin": "l",
+                    "hp": "085230028648",
+                    "email": null,
+                    "keahlian": "Ilmu Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25472,
+                "dosen_karyawan": {
+                    "id": 36,
+                    "kode": "198402012011012014",
+                    "nama": "Aflahah",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1984-02-01",
+                    "kelamin": "p",
+                    "hp": "08179378412",
+                    "email": null,
+                    "keahlian": "Bahasa Indonesia",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25474,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19619,
+        "tanggal": "2021-06-21",
+        "mulai": "09:00:00",
+        "selesai": "10:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18715,
+            "judul": "Penerapan Metode Role Playing Dalam Meningkatkan Kemampuan Membaca Bagi Siswa Kelas I Mi Miftahul Huda Ellak-Laok Lenteng Sumenep",
+            "mahasiswa": {
+                "id": 3155,
+                "nim": "20160701050012",
+                "nik": null,
+                "nama": "ATIYA ARIFIA",
+                "semester": null,
+                "alamat": "Jln Kasuari 8 Kedawung Lor,, Rt/Rw, Gebang/Patrang, Kabupaten Jember, Jawa Timur",
+                "lahir_tempat": "Jember",
+                "lahir_tanggal": "1997-12-13",
+                "kelamin": "p",
+                "hp": "85232838448",
+                "email": null,
+                "foto": null,
+                "tahun_masuk": 2016,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18714,
+                "dosen_karyawan": {
+                    "id": 12,
+                    "kode": "197305041999031015",
+                    "nama": "Atiqullah",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Ag., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1973-05-04",
+                    "kelamin": "l",
+                    "hp": "08123108158",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25468,
+                "dosen_karyawan": {
+                    "id": 36,
+                    "kode": "198402012011012014",
+                    "nama": "Aflahah",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1984-02-01",
+                    "kelamin": "p",
+                    "hp": "08179378412",
+                    "email": null,
+                    "keahlian": "Bahasa Indonesia",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25470,
+                "dosen_karyawan": {
+                    "id": 7,
+                    "kode": "197011181999031002",
+                    "nama": "Edi susanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Fil.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-11-18",
+                    "kelamin": "l",
+                    "hp": "085230028648",
+                    "email": null,
+                    "keahlian": "Ilmu Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19621,
+        "tanggal": "2021-06-21",
+        "mulai": "10:00:00",
+        "selesai": "11:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18765,
+            "judul": "Penanaman Nilai-Nilai Karakter Di Lingkungan Sekolah Dalam Bidang Pelajaran Aqidah Ahklak Kelas Vi Mi Sabilul Muttaqien Desa Buddagan Kecamatan Pademawu Kabupaten Pamekasan",
+            "mahasiswa": {
+                "id": 4279,
+                "nim": "20170701051044",
+                "nik": null,
+                "nama": "MOH. ALI SOFYAN",
+                "semester": null,
+                "alamat": "Kmp Soloh Laok, 002 / 005, Murtajih, Pademawu",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-06-03",
+                "kelamin": "l",
+                "hp": "81333526405",
+                "email": "sofyanlambayong@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18764,
+                "dosen_karyawan": {
+                    "id": 7,
+                    "kode": "197011181999031002",
+                    "nama": "Edi susanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Fil.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-11-18",
+                    "kelamin": "l",
+                    "hp": "085230028648",
+                    "email": null,
+                    "keahlian": "Ilmu Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25478,
+                "dosen_karyawan": {
+                    "id": 12,
+                    "kode": "197305041999031015",
+                    "nama": "Atiqullah",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Ag., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1973-05-04",
+                    "kelamin": "l",
+                    "hp": "08123108158",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25482,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19622,
+        "tanggal": "2021-06-22",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18697,
+            "judul": "Pengaruh Pembelajaran Pendidikan Agama Islam Terhadap Kecerdasan Spiritual Siswa Kelas V Di Sdi Matsaratul Huda",
+            "mahasiswa": {
+                "id": 4294,
+                "nim": "20170701052011",
+                "nik": null,
+                "nama": "ANIS KURLIYANA DEVI",
+                "semester": null,
+                "alamat": "Dsn Kalimati, 001 / 001, Samiran, Proppo",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-03-15",
+                "kelamin": "p",
+                "hp": "82338503956",
+                "email": "aniskurliyana05@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18696,
+                "dosen_karyawan": {
+                    "id": 108,
+                    "kode": "198805152016082755",
+                    "nama": "Fatimatuz Zahroh",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "02330438791",
+                    "email": null,
+                    "keahlian": "Statistik Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25485,
+                "dosen_karyawan": {
+                    "id": 12,
+                    "kode": "197305041999031015",
+                    "nama": "Atiqullah",
+                    "titel_depan": "Dr. H.",
+                    "titel_belakang": "S.Ag., M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1973-05-04",
+                    "kelamin": "l",
+                    "hp": "08123108158",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25486,
+                "dosen_karyawan": {
+                    "id": 7,
+                    "kode": "197011181999031002",
+                    "nama": "Edi susanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Fil.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-11-18",
+                    "kelamin": "l",
+                    "hp": "085230028648",
+                    "email": null,
+                    "keahlian": "Ilmu Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19623,
+        "tanggal": "2021-06-23",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18703,
+            "judul": "Implementasi Metode Bernyanyi Dalam Memperkuat Hafalan 25 Nabi Bagi Siswa Kelas Ii Di Sdn Pagagan 2 Pademawu",
+            "mahasiswa": {
+                "id": 4329,
+                "nim": "20170701052066",
+                "nik": null,
+                "nama": "SITTI NURJAMILAH",
+                "semester": null,
+                "alamat": "Dusun Malangan Barat, 002 / 011, Pademawu Timur, Pademawu",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-11-12",
+                "kelamin": "p",
+                "hp": "82332905898",
+                "email": "sittinurjamilah121198@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18702,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25488,
+                "dosen_karyawan": {
+                    "id": 7,
+                    "kode": "197011181999031002",
+                    "nama": "Edi susanto",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Fil.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-11-18",
+                    "kelamin": "l",
+                    "hp": "085230028648",
+                    "email": null,
+                    "keahlian": "Ilmu Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25491,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19624,
+        "tanggal": "2021-06-24",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18770,
+            "judul": "Penerapan Multimedia Interaktif Microsoft Power Point Dalam Meningkatkan Motivasi Belajar Siswa Mata Pelajaran Ipa Pada Kelas Iv Sdn Konang 2 Pamekasan",
+            "mahasiswa": {
+                "id": 4271,
+                "nim": "20170701051019",
+                "nik": null,
+                "nama": "FAIS HANAFI",
+                "semester": null,
+                "alamat": "Dusun Panyepen Konang, 002 / 003, Konang, Galis",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1997-08-05",
+                "kelamin": "l",
+                "hp": "83857096429",
+                "email": "www.safiuddin2323@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18769,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25504,
+                "dosen_karyawan": {
+                    "id": 108,
+                    "kode": "198805152016082755",
+                    "nama": "Fatimatuz Zahroh",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "02330438791",
+                    "email": null,
+                    "keahlian": "Statistik Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25505,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19625,
+        "tanggal": "2021-06-25",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18829,
+            "judul": "Penggunaan Model Pembelajaran Kooperatif Tipe Teams Games Tournament (Tgt) Untuk Meningkatkan Motivasi Belajar Bagi Siswa Kelas Iii Di Sdn Pagagan 2 Pademawu",
+            "mahasiswa": {
+                "id": 4336,
+                "nim": "20170701052076",
+                "nik": null,
+                "nama": "YULISTIANA DEVI",
+                "semester": null,
+                "alamat": "Dusun Soloh Dajah, 002 / 002, Murtajih, Pademawu",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-07-29",
+                "kelamin": "p",
+                "hp": "85607889214",
+                "email": "yulistiana637@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18828,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25507,
+                "dosen_karyawan": {
+                    "id": 108,
+                    "kode": "198805152016082755",
+                    "nama": "Fatimatuz Zahroh",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "p",
+                    "hp": "02330438791",
+                    "email": null,
+                    "keahlian": "Statistik Pendidikan",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25509,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19628,
+        "tanggal": "2021-06-28",
+        "mulai": "10:00:00",
+        "selesai": "11:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18676,
+            "judul": "Pengaruh Pengelolaan Kelas Terhadap Pengembangan Minat Belajar Siswa Pada Pembelajaran Ipa Kelas Iv Di Sdi Matsaratul Huda Panempan Pamekasan",
+            "mahasiswa": {
+                "id": 4330,
+                "nim": "20170701052067",
+                "nik": null,
+                "nama": "SITTI ROHMAH",
+                "semester": null,
+                "alamat": "Dsn Pacangan 2, 0 / 0, Tobungan, Galis",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-08-07",
+                "kelamin": "p",
+                "hp": "85904333283",
+                "email": "rahmaaja603@yahoo.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18675,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25528,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25532,
+                "dosen_karyawan": {
+                    "id": 1,
+                    "kode": "196702011995031001",
+                    "nama": "Saiful Arif",
+                    "titel_depan": "Drs. H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-01-01",
+                    "kelamin": "l",
+                    "hp": "081332079666",
+                    "email": null,
+                    "keahlian": "Supervisi PAI",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19629,
+        "tanggal": "2021-06-29",
+        "mulai": "08:00:00",
+        "selesai": "09:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18761,
+            "judul": "Implementasi Model Kooperatif Tipe Jigsaw 2 Pada Pembelajaran Ipa Materi Metamorfosis Pada Hewan Kelas 4 Di Sdn Teja Timur 4",
+            "mahasiswa": {
+                "id": 4337,
+                "nim": "20170701052077",
+                "nik": null,
+                "nama": "YULIYANTI",
+                "semester": null,
+                "alamat": "Dusun Timur, 002 / 001, Jalmak, Pamekasan",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1999-07-14",
+                "kelamin": "p",
+                "hp": "85232667808",
+                "email": "yantiiy60@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18760,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25539,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25545,
+                "dosen_karyawan": {
+                    "id": 107,
+                    "kode": "198703112016081724",
+                    "nama": "Mohammad Hefni",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085204701996",
+                    "email": null,
+                    "keahlian": "Biologi Dasar",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19626,
+        "tanggal": "2021-06-29",
+        "mulai": "15:00:00",
+        "selesai": "16:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18773,
+            "judul": "Penerapan Media Pembelajaran Berbasis E-Learning Pada Pembelajaran Ipa Dalam Meningkatkan Minat Belajar Siswa Kelas Iv Mi An Najah Pasongsongan Sumenep",
+            "mahasiswa": {
+                "id": 4298,
+                "nim": "20170701052016",
+                "nik": null,
+                "nama": "ELLINATUS SUBAIDAH",
+                "semester": null,
+                "alamat": "Pakotan, 002 / 001, Pasongsongan, Pasongsongan",
+                "lahir_tempat": "Sumenep",
+                "lahir_tanggal": "1998-07-25",
+                "kelamin": "p",
+                "hp": "85230243305",
+                "email": "ELLINATUSSUBAIDAH@GMAIL.COM",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18772,
+                "dosen_karyawan": {
+                    "id": 107,
+                    "kode": "198703112016081724",
+                    "nama": "Mohammad Hefni",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085204701996",
+                    "email": null,
+                    "keahlian": "Biologi Dasar",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25512,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25519,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19630,
+        "tanggal": "2021-06-30",
+        "mulai": "09:00:00",
+        "selesai": "10:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18800,
+            "judul": "Upaya Meningkatkan Minat Belajar Siswa Menggunakan Strategi Outdoor Pada Mata Pelajaran Ipa Materi Ekosistem Kelas Iv Mi Miftahul Huda Ellak Laok Lenteng Sumenep",
+            "mahasiswa": {
+                "id": 3246,
+                "nim": "20160701050110",
+                "nik": null,
+                "nama": "MOH. SHIDQI AL HASANI",
+                "semester": null,
+                "alamat": "Dsn.Pehserut, Rt/Rw, Pehserut/Sukomoro, Kabupaten Nganjuk, Jawa Timur",
+                "lahir_tempat": "Nganjuk",
+                "lahir_tanggal": "1997-09-27",
+                "kelamin": "l",
+                "hp": "85231263943",
+                "email": null,
+                "foto": null,
+                "tahun_masuk": 2016,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18799,
+                "dosen_karyawan": {
+                    "id": 106,
+                    "kode": "198701012016081747",
+                    "nama": "Mohammad Imam Sufiyanto",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085232678786",
+                    "email": null,
+                    "keahlian": "IAD / IBD / ISD",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25551,
+                "dosen_karyawan": {
+                    "id": 1,
+                    "kode": "196702011995031001",
+                    "nama": "Saiful Arif",
+                    "titel_depan": "Drs. H.",
+                    "titel_belakang": "M.Pd.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1970-01-01",
+                    "kelamin": "l",
+                    "hp": "081332079666",
+                    "email": null,
+                    "keahlian": "Supervisi PAI",
+                    "rekening": null,
+                    "foto": null
+                }
+            }, {
+                "id": 25554,
+                "dosen_karyawan": {
+                    "id": 107,
+                    "kode": "198703112016081724",
+                    "nama": "Mohammad Hefni",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085204701996",
+                    "email": null,
+                    "keahlian": "Biologi Dasar",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }, {
+        "id": 19627,
+        "tanggal": "2021-06-30",
+        "mulai": "14:00:00",
+        "selesai": "15:00:00",
+        "deskripsi": null,
+        "ruang_ujian": null,
+        "pendaftar_ujian": {
+            "id": 18860,
+            "judul": "Penerapan Pembinaan Sholat Dhuha Dalam Meningkatkan Aspek Spiritual Pada Siswa Mi Riyadlatul Mubtadiin Klompang Barat Kec. Pakong Kab. Pamekasan",
+            "mahasiswa": {
+                "id": 4323,
+                "nim": "20170701052060",
+                "nik": null,
+                "nama": "NURUL AINI",
+                "semester": null,
+                "alamat": "Gungguh, 003 / 001, Seddur, Pakong",
+                "lahir_tempat": "Pamekasan",
+                "lahir_tanggal": "1998-05-31",
+                "kelamin": "p",
+                "hp": "87761567787",
+                "email": "nurul_aini@gmail.com",
+                "foto": null,
+                "tahun_masuk": 2017,
+                "prodi": {
+                    "id": 5,
+                    "nama": "Pendidikan Guru Madrasah Ibtidaiyah",
+                    "singkatan": "PGMI"
+                }
+            },
+            "pembimbing": [{
+                "id": 18859,
+                "dosen_karyawan": {
+                    "id": 107,
+                    "kode": "198703112016081724",
+                    "nama": "Mohammad Hefni",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Si.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "0000-00-00",
+                    "kelamin": "l",
+                    "hp": "085204701996",
+                    "email": null,
+                    "keahlian": "Biologi Dasar",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }],
+            "penguji": [{
+                "id": 25522,
+                "dosen_karyawan": {
+                    "id": 45,
+                    "kode": "198308162015032002",
+                    "nama": "Heni Listiana",
+                    "titel_depan": "",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": "",
+                    "lahir_tempat": "Surabaya",
+                    "lahir_tanggal": "1983-01-16",
+                    "kelamin": "p",
+                    "hp": "081330413463",
+                    "email": null,
+                    "keahlian": "Telaah Kurikulum PAI",
+                    "rekening": null,
+                    "foto": ""
+                }
+            }, {
+                "id": 25523,
+                "dosen_karyawan": {
+                    "id": 21,
+                    "kode": "197605062006041002",
+                    "nama": "Mohammad Thoha",
+                    "titel_depan": "Dr.",
+                    "titel_belakang": "M.Pd.I.",
+                    "golongan": null,
+                    "alamat": null,
+                    "lahir_tempat": "Pamekasan",
+                    "lahir_tanggal": "1976-05-06",
+                    "kelamin": "l",
+                    "hp": "083852657615",
+                    "email": null,
+                    "keahlian": "Manajemen Pendidikan Islam",
+                    "rekening": null,
+                    "foto": null
+                }
+            }],
+            "jadwal_daftar_ujian": {
+                "id": 98,
+                "gelombang": 4,
+                "jenis": "skripsi",
+                "tanggal_buka": "2021-06-03 08:57:00",
+                "tanggal_tutup": "2021-06-09 08:57:00",
+                "deskripsi": null,
+                "nilai": 0,
+                "jadwal": 0,
+                "tahun_ajaran": {
+                    "id": 1,
+                    "tahun": 2020,
+                    "semester": "genap",
+                    "label": "Genap 2020/2021"
+                }
+            }
+        }
+    }]
+}
