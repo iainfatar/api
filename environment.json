@@ -1,0 +1,9 @@
+{
+  "exportNilaiProposal":'https://docs.google.com/forms/d/e/1FAIpQLSfhDU8N-sNM-9MSWB_6kX-PM3eRtWU5Ba-488wOgUp4B__HCw/formResponse',
+  "exportNilaiSkripsi":'https://docs.google.com/forms/d/e/1FAIpQLSccvZJV_qdYjEUFzsrIsWDqUUdvmaekoZA2yvRYTB1EJiIG6g/formResponse',
+  "exportBeritaAcara":'https://docs.google.com/forms/d/e/1FAIpQLScVFos_XYJxIGHKD7rrsYlyaZ5cZ5s6bRdRe-2vHs_7bltiuQ/formResponse',
+  "importData":{
+  	"v1":'https://raw.githubusercontent.com/iainfatar/api/main/jadwal.json',
+  	"v2":'https://noobcode.id/api/jadwal-ujian-skripsi-fatar',
+  }
+}
