@@ -4,6 +4,6 @@
   "exportBeritaAcara":"https://docs.google.com/forms/d/e/1FAIpQLScVFos_XYJxIGHKD7rrsYlyaZ5cZ5s6bRdRe-2vHs_7bltiuQ/formResponse",
   "importData":{
   	"v1":"https://raw.githubusercontent.com/iainfatar/api/main/jadwal.json",
-  	"v2":"https://noobcode.id/api/jadwal-ujian-skripsi-fatar",
+  	"v2":"https://noobcode.id/api/jadwal-ujian-skripsi-fatar"
   }
 }
