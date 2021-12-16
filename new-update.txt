@@ -1,1 +1,1 @@
-{"info_message":"Pembaruan apkikasi sedang tersedia, silahkan untuk melakukan pembaruan aplikasi untuk dapat melanjutkan!"}
+{"info_message":"Pembaruan apkikasi sedang tersedia, silahkan untuk melakukan pembaruan aplikasi terlebih dahulu untuk dapat melanjutkan!"}
